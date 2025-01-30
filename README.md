@@ -69,6 +69,13 @@ terraform destroy
 ```
 This will delete all resources created by Terraform.
 
+![Screenshot (19)](https://github.com/user-attachments/assets/64f9424c-8f1e-4b77-98a7-96d1d7aa364f)
+
+
+![Screenshot (20)](https://github.com/user-attachments/assets/295b5fca-892a-4d77-8613-89512fe5d44c)
+
+
+
 ---
 
 This repository helps automate AWS infrastructure deployment using Terraform. Feel free to modify configurations as needed.
